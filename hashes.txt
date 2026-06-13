@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El secreto de tus labios
+
+This log tracks the cryptographic history and versioning for the song **El secreto de tus labios** (el-secreto-de-tus-labios).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:16:58.728076 | `v1` | `593f5ca89eb5b7549127d57ea1f808da8cd568cea99401e1644aaf211979a451` | `f08767252e04f66e44c8c2e92462f5b6df1aa7673e0bd4cf0fb2788031f03383` | `2026-06-14_el-secreto-de-tus-labios-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
