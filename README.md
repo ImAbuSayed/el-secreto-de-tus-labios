@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-secreto-de-tus-labios/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For El secreto de tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-secreto-de-tus-labios/) |
+| **Get License** | [Commercial Licensing for El secreto de tus labios](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-secreto-de-tus-labios/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Acércate un poco, que la noche llama
+> Tengo la receta que enciende tu llama
+> Dime si te atreves a perder la calma
+> Que un beso tuyo me roba el alma
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
